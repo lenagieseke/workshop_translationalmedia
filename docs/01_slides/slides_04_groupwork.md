@@ -117,6 +117,13 @@ Briefly describe your motivation, inspiration and process finalizing your concep
 
 You are allowed to use any tool. Chose wisely.
 
+---
+
+.header[Designing Translational Media and World-Building | Website]
+
+.center[<img src="./img/qr_workshop_translationalmedia.png" alt="qr_workshop_translationalmedia" style="width:55%;"> ]  
+
+
 
 ---
 template:inverse 
