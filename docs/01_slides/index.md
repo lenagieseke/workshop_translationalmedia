@@ -6,7 +6,10 @@ has_children: false
 ---
 
 
-# Procedural Generation and Simulation
+## Workshop
+
+# Designing Translational Media and World-Building
+
   
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \  
   

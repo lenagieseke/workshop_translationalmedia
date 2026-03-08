@@ -39,15 +39,15 @@ By the end of the workshop, students will be able to:
 
 **Theme: Translational Pipelines — Constructing Third Spaces**
 
-* 15:00–15:15 Introductions
-* 15:15–16:30 Lecture Translational Media
+* 15:00–15:15 [Introductions](./01_slides/slides_01_intro.html)
+* 15:15–16:30 [Lecture Translational Media](./01_slides/slides_02_spaces.html)
 * 16:30–16:45 Break
-* 16:45–17:45 Cataloging Translations and Spaces
-* 17:45–18:30 Group Work
+* 16:45–17:45 [Cataloging Translations and Spaces](./01_slides/slides_03_cataloging.html)
+* 17:45–18:30 [Group Work](./01_slides/slides_04_groupwork.html)
 
-## Session 2 — Wednesday, March 11 | 9:00–13:30
+### Session 2 — Wednesday, March 11 | 9:00–13:30
 
-**Theme: From Pipeline to World — Analysis and Consequences **
+**Theme: From Pipeline to World — Analysis and Consequences**
 
 * 9:00–10:00 Group Work
 * 10:00–10:15 Break
