@@ -14,8 +14,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de
 ---
 
 <img src="./01_slides/img/spaces/superradiance_05.jpg" alt="superradiance_03" style="width:100%;">  
-
-**Superradiance. Memo Akten and Katie Hofstadter, 2025.** [https://superradiance.net/](https://superradiance.net/)
+[**Superradiance. Memo Akten and Katie Hofstadter, 2025.** [https://superradiance.net/](https://superradiance.net/)]
 
   
 
