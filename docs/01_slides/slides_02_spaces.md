@@ -25,17 +25,10 @@ First assumption: we are moving from the analog world into the digital one
 
 * Goal: Give a usable mental model for how pipelines translate analog phenomena into computational worlds. 
 
----
-layout: false
 
 .center[<img src="./img/spaces/lavarand_02.png" alt="lavarand_02" style="width:72%;">] .imgref[[Image: [Martin J. Levy](https://blog.cloudflare.com/randomness-101-lavarand-in-production/)]]
 
-
----
-
 .center[<img src="./img/spaces/machineHallucinations_01.png" alt="machineHallucinations_01" style="width:92%;">].imgref[[Image: Rafik Anadol. 2021. Machine Hallucinations — Nature Dreams. https://refikanadol.com/works/machine-hallucinations-nature-dreams/]]
-
----
 
 .center[<img src="./img/spaces/superradiance_04.jpg" alt="superradiance_04" style="width:92%;">].imgref[[Image: Memo Akten and Katie Hofstadter. 2025. Superradiance. https://superradiance.net/]]
 
@@ -83,6 +76,8 @@ Pipeline design for computational translation is **world-building**, not just en
 
 
 ---
+layout:false
+
 ## Lecture
 
 --
@@ -1929,7 +1924,7 @@ That is world building in a literal sense.
 ---
 template:inverse
 
-### *If we are building worlds, what does that oblige us to?*
+### *If we are building worlds, which responsibilities do we have?*
 
 ???
 

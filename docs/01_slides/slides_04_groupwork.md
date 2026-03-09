@@ -43,17 +43,17 @@ Describe the translation process using the following steps:
 
 --
 
-* Source – What real-world phenomenon is used as input?  
+* **Source** – What real-world phenomenon is used as input?  
 (e.g. movement, voice, light, text, environmental data)
 
 --
 
-* Capture / Encode – How is this phenomenon detected or measured?  
+* **Capture / Encode** – How is this phenomenon detected or measured?  
 (e.g. camera, microphone, sensor, dataset, tracking system)
 
 --
 
-* Transform / Model – What algorithm, rule system, or generative process transforms the captured data?  
+* **Transform / Model** – What algorithm, rule system, or generative process transforms the captured data?  
 
 
 
@@ -66,18 +66,32 @@ Describe the world your system creates using the following aspects:
 
 --
 
-* System Setup (structure and dynamics)  
-What entities exist in the system and what rules govern their behavior? What happens over time?
+* **System Setup** (structure and dynamics)  
+What entities exist in the system and what rules govern their behavior? What happens over time?  
+How does it differ to the source domain?
 
---
+---
+.header[Group Work]
 
-* Influence (feedback)  
-How do people interact with the system, and how does the system affect their behavior?
+## The Third Space
 
---
+Describe the world your system creates using the following aspects:
 
-* Meaning (interpretation)  
-What idea, concept, or perspective does this translation express or reveal?
+* **Influence** (feedback)  
+How do people interact with the system, and how does the system affect their behavior?   
+How does it influence our interaction with the source domain?
+
+---
+.header[Group Work]
+
+## The Third Space
+
+Describe the world your system creates using the following aspects:
+
+
+* **Meaning** (interpretation)  
+What idea, concept, or perspective does this translation express or reveal?  
+How does change our understanding of the source domain?
 
 ---
 .header[Group Work]
@@ -102,7 +116,7 @@ Briefly describe your motivation, inspiration and process finalizing your concep
 
 --
 
-* Prepare a ~5 min presentation of your ideas.
+* Prepare a presentation (~5-10 min) of your ideas.
     * Format is up to you
 
 --

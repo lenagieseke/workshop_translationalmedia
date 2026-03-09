@@ -180,14 +180,14 @@ Clapping becomes population control: short percussive events seed and disturb an
 --
   
 
-Focus: audiovisual concent and **appealing aesthetics** (think *Nature Dreams*).
+Focus: audiovisual design and **appealing aesthetics** (think *Nature Dreams*).
 
 ---
 .header[Cataloging Translations and Spaces]
 
 ## Example: *Clapping*
 
-> Concept: In reference to contemporary media platforms and attention as currency, the work expresses that only what receives applause is seen and survives, which does not fades from existence.
+> Concept: In reference to contemporary social media platforms and attention as currency, the work expresses that only what receives applause is seen and survives, the material receiving little attention fades from existence.
 
 --
 
@@ -366,11 +366,16 @@ Open questions: why should the audience clap in the first place?
 --
 
 * Up to you, the task, the environment etc. 
-* The pipeline and third space properties are always present
+  
+--
+  
+<br />
+
+*However:* The pipeline and third space properties are always present!
 
 --
 
-<br />
+
 
 > The question is whether you design them deliberately or not.
 
@@ -427,6 +432,12 @@ Pipeline
 * Which analog data to use, which encoding, with transforming which third spaces
 
 ---
+template:inverse
+
+# Cataloging Translations
+
+
+---
 .header[Cataloging Translations and Spaces | Pipeline Ideas]
 
 ## Gesture Capturing
@@ -452,7 +463,7 @@ Pipeline
 ---
 .header[Cataloging Translations and Spaces | Pipeline Ideas | Gesture Capturing]
 
-.center[<img src="./img/superradiance_05.jpg" alt="superradiance_05" style="width:92%;">].imgref[[Image: Memo Akten and Katie Hofstadter. 2025. Superradiance. https://superradiance.net/]]
+.center[<img src="./img/spaces/superradiance_05.jpg" alt="superradiance_05" style="width:92%;">].imgref[[Image: Memo Akten and Katie Hofstadter. 2025. Superradiance. https://superradiance.net/]]
 
 
 
@@ -482,6 +493,8 @@ Pipeline
 .header[Cataloging Translations and Spaces | Pipeline Ideas | Voice and Sound]
 
 ## *Utooto* (Yuri Suzuki, 2025)
+
+--
 
 > A participatory installation where visitors interact with pipes and horns to shape how sound travels through a large architectural structure, creating a collective “sonic architecture.”
 
@@ -575,6 +588,8 @@ Together, the examples show that misclassification can be engineered at the boun
 
 ## *Rain Room* (Hannes Koch and Florian Ortkrass, 2012)
 
+--
+
 > Visitors walk through a room where rain continuously falls, but motion-tracking cameras detect their position and stop the rain directly above them, allowing them to move through the storm without getting wet.
 
 .footnote[[[Wikipedia - Rain Room](https://en.wikipedia.org/wiki/Rain_Room)]]
@@ -617,6 +632,8 @@ Together, the examples show that misclassification can be engineered at the boun
 .header[Cataloging Translations and Spaces | Pipeline Ideas | Environmental Sensors]
 
 ## *The Biosphere* (Sylvia Rybak, Urszula Przybylska, 2024)
+
+--
 
 > Critique of techno-utopian “exit” fantasies of isolated, self-sustaining colonies by revealing the fragility and unpredictability of such supposedly perfect artificial worlds.
 
@@ -857,23 +874,18 @@ The failure is testimony.
 ---
 template:inverse
 
-# Cataloging Translations and Spaces
 
----
-## Cataloging Translations and Spaces
-
-The **source does not determine the world**,...
+### *The source does not determine the world,...*
 
 --
 
-..the **translation does.**
+### *..the translation does.*
 
---
 
-The same input can lead to many different spaces.
+
 
 ???
-
+The same input can lead to many different spaces.
 When building a system, you are deciding:
 
 * what counts as signal  

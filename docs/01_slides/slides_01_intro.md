@@ -29,15 +29,15 @@ For example, when a dancer’s movement is translated into a particle field that
 layout: false
 
 
-.center[<img src="./img/machineHallucinations_01.png" alt="machineHallucinations_01" style="width:92%;">].imgref[[Image: Rafik Anadol. 2021. Machine Hallucinations — Nature Dreams. https://refikanadol.com/works/machine-hallucinations-nature-dreams/]]
+.center[<img src="./img/spaces/machineHallucinations_01.png" alt="machineHallucinations_01" style="width:92%;">].imgref[[Image: Rafik Anadol. 2021. Machine Hallucinations — Nature Dreams. https://refikanadol.com/works/machine-hallucinations-nature-dreams/]]
 
 ---
 
-.center[<img src="./img/superradiance_04.jpg" alt="superradiance_04" style="width:92%;">].imgref[[Image: Memo Akten and Katie Hofstadter. 2025. Superradiance. https://superradiance.net/]]
+.center[<img src="./img/spaces/superradiance_04.jpg" alt="superradiance_04" style="width:92%;">].imgref[[Image: Memo Akten and Katie Hofstadter. 2025. Superradiance. https://superradiance.net/]]
 
 ---
 
-.center[<img src="./img/lavarand_02.png" alt="lavarand_02" style="width:72%;">] .imgref[[Image: [Martin J. Levy](https://blog.cloudflare.com/randomness-101-lavarand-in-production/)]]
+.center[<img src="./img/spaces/lavarand_02.png" alt="lavarand_02" style="width:72%;">] .imgref[[Image: [Martin J. Levy](https://blog.cloudflare.com/randomness-101-lavarand-in-production/)]]
 
 ---
 .header[Workshop Designing Translational Media and World-Building]
