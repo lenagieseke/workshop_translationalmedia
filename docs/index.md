@@ -41,17 +41,18 @@ By the end of the workshop, students will be able to:
 * 15:00–15:15 [Introductions](./01_slides/slides_01_intro.html)
 * 15:15–16:30 [Lecture Translational Media](./01_slides/slides_02_spaces.html)
 * 16:30–16:45 Break
-* 16:45–17:45 [Cataloging Translations and Spaces](./01_slides/slides_03_cataloging.html)
-* 17:45–18:30 [Group Work](./01_slides/slides_04_groupwork.html)
+* 16:45–18:00 [Cataloging Translations and Spaces](./01_slides/slides_03_cataloging.html)
+* 18:00–18:30 [Group Work](./01_slides/slides_04_groupwork.html)
 
 ### Session 2 — Wednesday, March 11 | 9:00–13:30
 
 **Theme: From Pipeline to World — Analysis and Consequences**
 
-* 9:00–10:00 Group Work
-* 10:00–10:15 Break
-* 10:15–11:45 Micro-presentations
-* 12:45–13:15 Synthesis and Outlook Discussion
+* 9:00–11:00 [Group Work](./01_slides/slides_04_groupwork.html)
+* 11:00–11:15 Break
+* 11:15–12:15 Micro-presentations
+* 12:15–12:30 Break
+* 12:30–13:15 Synthesis and Outlook Discussion
 * 13:15–13:30 Wrap-up
 
 
